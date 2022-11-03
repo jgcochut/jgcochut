@@ -1,12 +1,12 @@
-## Bem vindo! Eu sou João Gabriel Monteiro Cochut.	
+## Bem vindo! Eu sou Jefferson Passerini.
 
-- 💻 Estou cursando Sistemas de Informação - Bacharelado.
-- ✆ Trabalho como Suporte Remoto em uma Software House.
+- 🔭 Sou docente de tecnologia da informação, atuando com análise e desenvolvimento de software.
+- 🌱 Atualmente faço doutorado em Ciência da Computação na área de Inteligência Computacional.
 
 <div align="center">
-  <a href="https://github.com/jgcochut/">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jgcochut&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgcochut&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/jeffersonarpasserini/">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jeffersonarpasserini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonarpasserini&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
