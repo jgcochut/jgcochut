@@ -1,6 +1,6 @@
 ## Bem vindo! Eu sou João Gabriel Monteiro Cochut.	
 
-- U+1F4BB Estou cursando Sistemas de Informação - Bacharelado.
+- U+1F4BB &#128187 Estou cursando Sistemas de Informação - Bacharelado.
 - U+2706 Trabalho como Suporte Remoto em uma Software House.
 
 <div align="center">
