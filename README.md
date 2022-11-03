@@ -1,4 +1,4 @@
-## Bem vindo! Eu sou João Gabriel Monteiro Cochu.
+## Bem vindo! Eu sou João Gabriel.
 
 - 💻 Estou cursando Sistemas de Informação - Bacharelado.
 - ✆ Trabalho como Suporte Remoto em uma Software House.
